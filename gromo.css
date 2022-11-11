@@ -107,7 +107,7 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     display: none;
-    position: fixed;
+    position: fixed;  
     top: 90%;
     right: 3%;;
     cursor: pointer;
@@ -775,7 +775,7 @@ footer{
     padding-bottom: 20px;
     padding-top: 30px;
     justify-content: space-around; 
-    background: whitesmoke;
+    /* background: whitesmoke; */
 }
 
 footer h3{
@@ -816,7 +816,7 @@ footer h3{
     padding-top: 20px;
     padding-bottom: 30px;
     align-items: center;
-    background: whitesmoke;
+    /* background: whitesmoke; */
 }
 
 /* =============================== footer-2 part ================================== */
@@ -875,7 +875,7 @@ footer h3{
 
 ::-webkit-scrollbar-thumb{
     background: orangered;
-    border-radius: 3.5px;
+    border-radius: 3px;
 }
 
 
